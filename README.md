@@ -1,6 +1,6 @@
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiram-Sharma/Abhiram-Sharma/main/dark_mode.svg">
+    <img alt="Abhiram Sharma's GitHub Profile README" src="https://raw.githubusercontent.com/Abhiram-Sharma/Abhiram-Sharma/main/light_mode.svg">
   </picture>
 <h1 align="center">Hi <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> , I'm Abhiram Sharma !</h1>
 
