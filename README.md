@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
-![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
+![version :20.01.2025](https://img.shields.io/badge/version-20.01.2025-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Abhiram-Sharma&color=red)&nbsp;
 [![GitHub Abhiram-Sharmal](https://img.shields.io/github/followers/Abhiram-Sharma?label=follow&style=social)](https://github.com/Abhiram-Sharma)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
