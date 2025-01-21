@@ -1,7 +1,9 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hi 👋, I'm Abhiram Sharma !
 <h3 align="center"><u>Data Scientist🧑🏻‍💻</u></h3>
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
+
 ![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Abhiram-Sharma&color=red)&nbsp;
 [![GitHub Abhiram-Sharmal](https://img.shields.io/github/followers/Abhiram-Sharma?label=follow&style=social)](https://github.com/Abhiram-Sharma)&nbsp;
