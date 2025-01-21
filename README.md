@@ -1,5 +1,5 @@
   <picture>
-    <img style="border-radius: 5px;" alt="Abhiram Sharma's GitHub Profile README" src="https://raw.githubusercontent.com/Abhiram-Sharma/Abhiram-Sharma/main/ss.png">
+    <img style="border-radius: 50px;" alt="Abhiram Sharma's GitHub Profile README" src="https://raw.githubusercontent.com/Abhiram-Sharma/Abhiram-Sharma/main/ss.png">
   </picture>
 <h1 align="center">Hi <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> , I'm Abhiram Sharma !</h1>
 
